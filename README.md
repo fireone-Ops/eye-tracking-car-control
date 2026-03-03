@@ -162,8 +162,16 @@ Este projeto é fornecido como-está para fins educacionais.
 
 ## ✉️ Contato
 
-Desenvolvido por: David
+Desenvolvido por: Davi de Sousa
+<p align="left">
+    <a href="https://www.linkedin.com/in/davisousavilela">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/fireone-Ops">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+</p>
 
 ---
 
-**Última atualização**: Novembro 2025
+**Última atualização**: Março de 2026
