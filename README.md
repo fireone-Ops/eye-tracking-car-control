@@ -162,32 +162,6 @@ Valores maiores tornam o sistema menos sensível.
 | P | Parar |
 
 ---
-
-## Solução de Problemas
-
-### Nenhuma porta serial encontrada
-
-- Verifique a conexão USB.
-- Instale o driver CH340 (caso utilize placas compatíveis).
-- Reinicie o Arduino.
-
-### A câmera não abre
-
-- Feche outros programas que utilizem a webcam.
-- Teste a câmera separadamente com OpenCV.
-
-### O rosto não é detectado
-
-- Utilize um ambiente bem iluminado.
-- Posicione-se entre 30 cm e 1 metro da câmera.
-- Ajuste o valor do `limiar`.
-
-### Porta serial ocupada
-
-Feche o Monitor Serial do Arduino IDE antes de executar o programa.
-
----
-
 ## Aprendizados
 
 Durante o desenvolvimento deste projeto foram aplicados conceitos como:
@@ -202,11 +176,7 @@ Durante o desenvolvimento deste projeto foram aplicados conceitos como:
 
 ---
 
-## Contexto
 
-Projeto desenvolvido como trabalho da disciplina **Lógica e Inteligência Artificial**, explorando aplicações práticas de visão computacional, automação e integração entre software e hardware.
-
----
 
 ##  Colaboradores
 
