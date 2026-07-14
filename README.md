@@ -208,13 +208,14 @@ Projeto desenvolvido como trabalho da disciplina **Lógica e Inteligência Artif
 
 ---
 
-## Autor
+## 👥 Colaboradores
 
-**Davi Sousa**
+<p align="left">
+  <a href="https://github.com/fireone-Ops">
+    <img alt="Davi Sousa" src="https://img.shields.io/badge/Davi%20Sousa-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-GitHub: https://github.com/fireone-Ops
-
-**Heitor**
-GitHub: https://github.com/Sidkkaz
-
-
+  <a href="https://github.com/Sidkkaz">
+    <img alt="Heitor" src="https://img.shields.io/badge/Heitor-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
