@@ -208,7 +208,7 @@ Projeto desenvolvido como trabalho da disciplina **Lógica e Inteligência Artif
 
 ---
 
-## 👥 Colaboradores
+##  Colaboradores
 
 <p align="left">
   <a href="https://github.com/fireone-Ops">
